@@ -20,7 +20,7 @@ Decision Tree Design Algorithm: To transform features from continuous and discre
 
 The accompanying figure illustrates accuracy and the confusion matrix for various numbers of tree layers. As observed, when considering a low number of layers, since fewer features are utilized in classification, accuracy is compromised. On the other hand, if the number of layers becomes excessively high, the classifier loses its resistance against overfitting, resulting in decreased accuracy on test data.
 
-![image](https://github.com/ErfanPanahi/Decision-Tree/assets/107314081/0cee927a-ff29-4b42-972a-26275c85ea88)
+![image](https://github.com/ErfanPanahi/Decision-Tree/assets/107314081/dcd88cfd-b8d0-4d1a-ac49-d47939e6be07)
 
 ![image](https://github.com/ErfanPanahi/Decision-Tree/assets/107314081/9d2ea918-c3bf-47e6-b598-fa8093786d45)
 
